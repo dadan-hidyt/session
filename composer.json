@@ -1,0 +1,22 @@
+{
+    "name": "fourseven/session",
+    "description": "php session for foursevenppdb",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fourseven\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Dadan Hidayat",
+            "email": "dadanhidyt@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8.2"
+    }
+}
