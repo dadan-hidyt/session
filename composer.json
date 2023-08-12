@@ -2,7 +2,6 @@
     "name": "fourseven/session",
     "description": "i",
     "type": "library",
-    "license": "gpl",
     "autoload": {
         "psr-4": {
             "Fourseven\\": "src/"
