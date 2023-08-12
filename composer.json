@@ -1,14 +1,12 @@
 {
     "name": "fourseven/session",
-    "description": "php session for foursevenppdb",
+    "description": "i",
     "type": "library",
+    "license": "gpl",
     "autoload": {
         "psr-4": {
             "Fourseven\\": "src/"
-        },
-        "files": [
-            "src/functions.php"
-        ]
+        }
     },
     "authors": [
         {
@@ -16,7 +14,5 @@
             "email": "dadanhidyt@gmail.com"
         }
     ],
-    "require": {
-        "php" : ">=8.2"
-    }
+    "require": {}
 }
